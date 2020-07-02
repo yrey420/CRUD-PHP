@@ -1,6 +1,5 @@
 <h1>Ingreso</h1>
-<div class="container-fluid"><H1>HOLAAAAAAAAA</H1></div>
-
+<div><h1>hola xd</h1></div>
 <div class="d-flex justify-content-center text-center">
 	<form class="was-validated p-5 bg-light" method="post">
 
